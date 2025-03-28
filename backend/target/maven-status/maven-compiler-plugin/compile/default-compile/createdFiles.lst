@@ -1,0 +1,3 @@
+com\astrology\controller\GenerationController.class
+com\astrology\vo\RequestBodyContent.class
+com\astrology\Application.class
